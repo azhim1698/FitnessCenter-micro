@@ -1,0 +1,8 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/fitness_db
+spring.datasource.username=postgres
+spring.datasource.password=12345
+spring.datasource.driver-class-name=org.postgresql.Driver
+
+
+
+spring.kafka.bootstrap-servers=your-kafka-host:9092
